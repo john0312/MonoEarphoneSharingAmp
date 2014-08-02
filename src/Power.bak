@@ -128,20 +128,18 @@ F 3 "" H 7400 2950 60  0000 C CNN
 	1    7400 2950
 	1    0    0    -1  
 $EndComp
-Text Label 6550 2900 0    60   ~ 0
+Text Label 6550 3000 0    60   ~ 0
 USB_5V
 Wire Wire Line
-	6250 2900 7000 2900
-Text Label 6400 3000 0    60   ~ 0
+	6250 3000 7000 3000
+Text Label 6400 2900 0    60   ~ 0
 Filtered_Vcc
 Wire Wire Line
-	6250 3000 7000 3000
+	6250 2900 7000 2900
 Text Label 7950 2900 0    60   ~ 0
 Vcc
 Wire Wire Line
-	7800 2900 7900 2900
-Wire Wire Line
-	7900 2900 8300 2900
+	7800 2900 8300 2900
 Wire Wire Line
 	7900 2900 7900 3000
 Wire Wire Line
@@ -185,13 +183,7 @@ $EndComp
 Text Label 1900 1900 0    60   ~ 0
 USB_5V
 Wire Wire Line
-	1800 1900 2300 1900
-Wire Wire Line
-	2300 1900 2600 1900
-Wire Wire Line
-	2600 1900 2900 1900
-Wire Wire Line
-	2900 1900 3200 1900
+	1800 1900 3200 1900
 Wire Wire Line
 	2300 1900 2300 2000
 Wire Wire Line
@@ -214,13 +206,7 @@ $EndComp
 Wire Wire Line
 	2150 2550 2150 2500
 Wire Wire Line
-	2150 2500 2300 2500
-Wire Wire Line
-	2300 2500 2600 2500
-Wire Wire Line
-	2600 2500 2900 2500
-Wire Wire Line
-	2900 2500 3200 2500
+	2150 2500 3200 2500
 Wire Wire Line
 	2900 2500 2900 2400
 Wire Wire Line
@@ -254,17 +240,7 @@ $EndComp
 Text Label 1200 3100 0    60   ~ 0
 Vcc
 Wire Wire Line
-	1100 3100 1900 3100
-Wire Wire Line
-	1900 3100 2200 3100
-Wire Wire Line
-	2200 3100 2500 3100
-Wire Wire Line
-	2500 3100 2800 3100
-Wire Wire Line
-	2800 3100 3100 3100
-Wire Wire Line
-	3100 3100 3400 3100
+	1100 3100 3400 3100
 Wire Wire Line
 	1900 3100 1900 3200
 Wire Wire Line
@@ -284,19 +260,7 @@ $EndComp
 Wire Wire Line
 	1450 3750 1450 3700
 Wire Wire Line
-	1450 3700 1600 3700
-Wire Wire Line
-	1600 3700 1900 3700
-Wire Wire Line
-	1900 3700 2200 3700
-Wire Wire Line
-	2200 3700 2500 3700
-Wire Wire Line
-	2500 3700 2800 3700
-Wire Wire Line
-	2800 3700 3100 3700
-Wire Wire Line
-	3100 3700 3400 3700
+	1450 3700 3400 3700
 Wire Wire Line
 	2200 3700 2200 3600
 Wire Wire Line

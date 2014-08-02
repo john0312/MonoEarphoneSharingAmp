@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Sat 02 Aug 2014 10:12:07 PM CST
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Sun 03 Aug 2014 01:59:24 AM CST
 
 BeginCmp
 TimeStamp = /53DBB11C;
@@ -19,6 +19,13 @@ TimeStamp = /53DBB4D1;
 Reference = C3;
 ValeurCmp = C;
 IdModule  = SM0805-XLTXT;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD2C1B;
+Reference = C4;
+ValeurCmp = CAPAPOL;
+IdModule  = SM1206-XLTXT;
 EndCmp
 
 BeginCmp
@@ -88,7 +95,7 @@ BeginCmp
 TimeStamp = /53DBB52A/53DBD7C1;
 Reference = C14;
 ValeurCmp = CAPAPOL;
-IdModule  = SM0805-XLTXT;
+IdModule  = SM1206-XLTXT;
 EndCmp
 
 BeginCmp
@@ -124,6 +131,34 @@ TimeStamp = /53DBB52A/53DBD811;
 Reference = C19;
 ValeurCmp = CAPAPOL;
 IdModule  = SM0805-XLTXT;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD1725;
+Reference = H1;
+ValeurCmp = CONN_1;
+IdModule  = M3_SCREW;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD1740;
+Reference = H2;
+ValeurCmp = CONN_1;
+IdModule  = M3_SCREW;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD174F;
+Reference = H3;
+ValeurCmp = CONN_1;
+IdModule  = M3_SCREW;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD1770;
+Reference = H4;
+ValeurCmp = CONN_1;
+IdModule  = M3_SCREW;
 EndCmp
 
 BeginCmp
@@ -180,6 +215,27 @@ TimeStamp = /53DBB556;
 Reference = P2;
 ValeurCmp = CONN_2X2;
 IdModule  = PIN_ARRAY_2X2_XLPAD;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD277E;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1x1_XLPAD;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD27A5;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1x1_XLPAD;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DD27BD;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1x1_XLPAD;
 EndCmp
 
 BeginCmp

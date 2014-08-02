@@ -1,4 +1,4 @@
-update=Sat 02 Aug 2014 02:28:59 PM CST
+update=Sun 03 Aug 2014 12:44:36 AM CST
 version=1
 last_client=cvpcb
 [pcbnew]
@@ -42,6 +42,7 @@ LibName18=Pin_Arrays
 LibName19=Audio_TRS
 LibName20=USB
 LibName21=SO8
+LibName22=M3Screw
 LibDir=../lib
 [general]
 version=1
