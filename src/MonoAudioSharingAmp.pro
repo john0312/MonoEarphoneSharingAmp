@@ -1,4 +1,4 @@
-update=Sat 02 Aug 2014 03:04:47 AM CST
+update=Sat 02 Aug 2014 02:28:59 PM CST
 version=1
 last_client=cvpcb
 [pcbnew]
@@ -41,6 +41,7 @@ LibName17=SMT_RC
 LibName18=Pin_Arrays
 LibName19=Audio_TRS
 LibName20=USB
+LibName21=SO8
 LibDir=../lib
 [general]
 version=1

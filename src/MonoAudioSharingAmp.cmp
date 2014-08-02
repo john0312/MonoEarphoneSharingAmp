@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Sat 02 Aug 2014 03:04:48 AM CST
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Sat 02 Aug 2014 10:12:07 PM CST
 
 BeginCmp
 TimeStamp = /53DBB11C;
@@ -60,14 +60,14 @@ BeginCmp
 TimeStamp = /53DBB52A/53DBD6FA;
 Reference = C10;
 ValeurCmp = CAPAPOL;
-IdModule  = SM1206-XLTXT;
+IdModule  = SM0805-XLTXT;
 EndCmp
 
 BeginCmp
 TimeStamp = /53DBB52A/53DBD709;
 Reference = C11;
 ValeurCmp = CAPAPOL;
-IdModule  = SM1206-XLTXT;
+IdModule  = SM0805-XLTXT;
 EndCmp
 
 BeginCmp
@@ -78,7 +78,7 @@ IdModule  = SM0805-XLTXT;
 EndCmp
 
 BeginCmp
-TimeStamp = /53DBB52A/53DBD7BB;
+TimeStamp = /53DBB52A/53DCF18A;
 Reference = C13;
 ValeurCmp = CAPAPOL;
 IdModule  = SM1206-XLTXT;
@@ -127,37 +127,44 @@ IdModule  = SM0805-XLTXT;
 EndCmp
 
 BeginCmp
-TimeStamp = /53DBB52A/53DBAF85;
+TimeStamp = /53DBB52A/53DC815D;
 Reference = J1;
-ValeurCmp = USB;
-IdModule  = ;
+ValeurCmp = CONN_5;
+IdModule  = MicroUSB_TZ;
 EndCmp
 
 BeginCmp
-TimeStamp = /53DBB0DB;
+TimeStamp = /53DBB52A/53DC8191;
+Reference = J2;
+ValeurCmp = CONN_5;
+IdModule  = MiniUSB_TZ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBDEC6;
 Reference = K1;
-ValeurCmp = CONN_3;
+ValeurCmp = CONN_5;
 IdModule  = TRS3.5mm_f5p;
 EndCmp
 
 BeginCmp
-TimeStamp = /53DBCFE2;
+TimeStamp = /53DC8330;
 Reference = K2;
-ValeurCmp = CONN_3;
+ValeurCmp = CONN_5;
 IdModule  = TRS3.5mm_f5p;
 EndCmp
 
 BeginCmp
-TimeStamp = /53DBCFF1;
+TimeStamp = /53DC84FF;
 Reference = K3;
-ValeurCmp = CONN_3;
+ValeurCmp = CONN_5;
 IdModule  = TRS3.5mm_f5p;
 EndCmp
 
 BeginCmp
-TimeStamp = /53DBD00C;
+TimeStamp = /53DC850D;
 Reference = K4;
-ValeurCmp = CONN_3;
+ValeurCmp = CONN_5;
 IdModule  = TRS3.5mm_f5p;
 EndCmp
 
@@ -253,6 +260,13 @@ IdModule  = SM0603-XLTXT;
 EndCmp
 
 BeginCmp
+TimeStamp = /53DC89C0;
+Reference = R12;
+ValeurCmp = R;
+IdModule  = SM0603-XLTXT;
+EndCmp
+
+BeginCmp
 TimeStamp = /53DBC545;
 Reference = RV1;
 ValeurCmp = POT;
@@ -312,7 +326,7 @@ BeginCmp
 TimeStamp = /53DBCF05;
 Reference = U3;
 ValeurCmp = DUAL_OPAMP;
-IdModule  = MSOP_8;
+IdModule  = ISOP08;
 EndCmp
 
 BeginCmp
@@ -326,7 +340,7 @@ BeginCmp
 TimeStamp = /53DBCFA3;
 Reference = U5;
 ValeurCmp = DUAL_OPAMP;
-IdModule  = MSOP_8;
+IdModule  = ISOP08;
 EndCmp
 
 EndListe
